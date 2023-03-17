@@ -11,7 +11,8 @@
 
 
 3. Создайте таблицу “orders”, заполните ее значениями
- <img width="2048" alt="Снимок экрана 2023-03-17 в 13 22 50" src="https://user-images.githubusercontent.com/110591063/225891004-93b2512f-b21c-4c01-977c-9f5bd94cf298.png">
+<img width="2048" alt="Снимок экрана 2023-03-17 в 14 21 41" src="https://user-images.githubusercontent.com/110591063/225895183-bc7cae07-9e8a-40a4-a0a8-a097e2343589.png">
+
 
 Выберите все заказы. В зависимости от поля order_status выведите столбец full_order_status:
 OPEN – «Order is in open state» ; CLOSED - «Order is closed»; CANCELLED -  «Order is cancelled»
