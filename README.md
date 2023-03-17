@@ -17,5 +17,6 @@
 
 Выберите все заказы. В зависимости от поля order_status выведите столбец full_order_status:
 OPEN – «Order is in open state» ; CLOSED - «Order is closed»; CANCELLED -  «Order is cancelled»
+<img width="2048" alt="Снимок экрана 2023-03-17 в 23 49 20" src="https://user-images.githubusercontent.com/110591063/226041521-6cdba68d-10d3-4a90-ac5c-0d296c974257.png">
 
 
