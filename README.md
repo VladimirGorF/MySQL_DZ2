@@ -11,7 +11,8 @@
 
 
 3. Создайте таблицу “orders”, заполните ее значениями
-<img width="2048" alt="Снимок экрана 2023-03-17 в 14 21 41" src="https://user-images.githubusercontent.com/110591063/225895183-bc7cae07-9e8a-40a4-a0a8-a097e2343589.png">
+<img width="2048" alt="Снимок экрана 2023-03-17 в 14 51 54" src="https://user-images.githubusercontent.com/110591063/225897052-dbe729fc-5393-48ef-af78-c843640dba5c.png">
+
 
 
 Выберите все заказы. В зависимости от поля order_status выведите столбец full_order_status:
