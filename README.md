@@ -19,4 +19,9 @@
 OPEN – «Order is in open state» ; CLOSED - «Order is closed»; CANCELLED -  «Order is cancelled»
 <img width="2048" alt="Снимок экрана 2023-03-17 в 23 49 20" src="https://user-images.githubusercontent.com/110591063/226041521-6cdba68d-10d3-4a90-ac5c-0d296c974257.png">
 
+<img width="2048" alt="Снимок экрана 2023-03-21 в 13 19 22" src="https://user-images.githubusercontent.com/110591063/226604162-079b4a99-cd71-4d03-8ad2-7c598fa7322e.png">
+
+<img width="2048" alt="Снимок экрана 2023-03-21 в 13 44 14" src="https://user-images.githubusercontent.com/110591063/226604185-f4ad9aaa-dfdc-4dae-b590-2c073327a0ea.png">
+
+<img width="2048" alt="Снимок экрана 2023-03-21 в 15 19 42" src="https://user-images.githubusercontent.com/110591063/226604199-d97b561b-3260-4128-b123-d3d92423bcfe.png">
 
